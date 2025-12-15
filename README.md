@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Gustavo Henrique
 
-**`PENTEST | RED TEAM`**
-`Segurança ofensiva & Análise de Vulnerabilidades` 
+**`## PENTEST | RED TEAM`**
+
 
 Sobre mim
 
