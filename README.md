@@ -68,11 +68,6 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
     src="https://github-readme-stats.vercel.app/api?username=Biiliiee&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<a href="https://github.com/Biiliiee/Calculadora" target="_blank">
-  Calculadora
-</a>
-
-
 
 
 
