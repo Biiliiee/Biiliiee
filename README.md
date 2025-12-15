@@ -54,6 +54,7 @@ Mentalidade: offensive security, análise crítica e aprendizado contínuo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<br>
 📊 Estatísticas
 <p>
   <img 
