@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Gustavo Henrique
 
-**`Pentester`**
+`PENTEST | RED TEAM`  
+`Segurança ofensiva & Análise de Vulnerabilidades`    
 
 Sobre mim
 
@@ -41,7 +42,7 @@ Mentalidade: offensive security, análise crítica e aprendizado contínuo
 <img 
     align="left" 
     alt="Kali Linux" 
-    title="kali Linux"
+    title="Kali Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
