@@ -58,7 +58,7 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-📊 Estatísticas
+
 <p>
   <img 
     align="left" 
