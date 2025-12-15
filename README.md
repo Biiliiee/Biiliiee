@@ -1,5 +1,5 @@
 <span align="center">
-# Gustavo Henrique
+Gustavo Henrique
 </span>
 
 
