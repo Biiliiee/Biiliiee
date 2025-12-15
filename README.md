@@ -1,17 +1,11 @@
-# 👩🏻‍💻 Gustavo Henrique
+# 👨🏻‍💻 Gustavo Henrique
 
 **`## PENTEST | RED TEAM`**
 
-
-Sobre mim
-
 Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falham para torná‑los mais seguros. Estudo ataques reais, metodologias de teste de invasão e análise de redes, sempre com mentalidade ofensiva e ética.
 
-Foco: Pentest, Red Team, Segurança em Redes
+📝 - Estudando: INE (eJPT), TryHackMe
 
-Estudando: INE (eJPT), TryHackMe
-
-Mentalidade: offensive security, análise crítica e aprendizado contínuo
 <p align="left">
   <a href="https://github.com/Biiliiee?tab=repositories&sort=stargazers">
         <img 
