@@ -1,5 +1,18 @@
 # 🔒 Gustavo Henrique
 
+
+<img 
+    align="center" 
+    width="300px" 
+    style="padding-right: 10px;" 
+    src="https://imgur.com/a/NJunS1D" 
+/>
+<img
+
+
+
+
+
 ## **` PENTEST | RED TEAM`**
 
 Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falham para torná‑los mais seguros. Estudo ataques reais, metodologias de teste de invasão e análise de redes, sempre com mentalidade ofensiva e ética.
