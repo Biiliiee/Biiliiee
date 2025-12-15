@@ -1,12 +1,12 @@
 # 🔒 Gustavo Henrique
 
 
-<img>
+<img
     align="center" 
     width="300px" 
     style="padding-right: 10px;" 
     src="https://imgur.com/a/NJunS1D" 
-<img\>
+/>
 
 
 
