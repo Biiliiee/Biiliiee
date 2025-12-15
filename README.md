@@ -42,7 +42,7 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
