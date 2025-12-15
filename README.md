@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Henrique
 
-**`## PENTEST | RED TEAM`**
+## **` PENTEST | RED TEAM`**
 
 Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falham para torná‑los mais seguros. Estudo ataques reais, metodologias de teste de invasão e análise de redes, sempre com mentalidade ofensiva e ética.
 
