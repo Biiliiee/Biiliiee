@@ -1,6 +1,5 @@
-<span align="center">
-Gustavo Henrique
-</span>
+# Gustavo Henrique
+
 
 
 <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/9bfe08dd-e00a-490a-892b-ead605bea9ae" />
