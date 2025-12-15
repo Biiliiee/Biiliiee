@@ -8,7 +8,7 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
 
 📝 **Estudando:** INE (eJPT), TryHackMe
 
----
+
 
 <p align="left">
   <a href="https://github.com/Biiliiee?tab=repositories&sort=stargazers">
@@ -28,7 +28,7 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
   </a>
 </p>
 
----
+
 
 ## 💻 Linguagens e Tecnologias
 
@@ -38,7 +38,6 @@ Sou estudante de Cybersecurity e Pentest, focado em entender como sistemas falha
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </p>
 
----
 
 ## 📊 Estatísticas do GitHub
 
