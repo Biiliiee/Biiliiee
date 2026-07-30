@@ -14,7 +14,7 @@
 
 <br/>
 
-### 👨‍💻 Sobre Mim
+###  Sobre Mim
 
 Pesquisador de Segurança Ofensiva focado em **Desenvolvimento de Malware**, **Windows Internals**, **Técnicas de Evasão de EDRs/AVs** e criação de ferramentas customizadas para Red Team em **C, C++ e Assembly x64**.
 
