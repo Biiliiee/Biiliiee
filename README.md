@@ -37,12 +37,7 @@ Pesquisador de Segurança Ofensiva focado em **Desenvolvimento de Malware**, **W
 
 <br/>
 
-### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Biiliiee&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biiliiee&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
-</p>
 
 <br/>
 
